@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Publishing with Jekyll
+author: Herrenrod
+email: herrenrod@herrenhub.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  I am a budding software developer currently working on JavaScript, CSS and HTML.
+  You are welcome to explore my portfolio <a href="">here.</a>
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: nestherrod # DO NOT include the @ character, or else the build will fail!
+github_username:  herrenrod # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
